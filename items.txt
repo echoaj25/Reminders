@@ -1,5 +1,10 @@
 Prepare Lunch
-read book
-help miguel
-organize garage
-call brandon
+Read Book
+Help Miguel
+Organize Garage
+Call Brandon
+Call Ayda
+Implement Linked List
+Prepare For TCS
+Learn Git Pull Requests
+Send Pictures To Steven
