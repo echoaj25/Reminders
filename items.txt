@@ -1,8 +1,8 @@
 Prepare Lunch
-read book
-help miguel
-organize garage
-call brandon
-call Ayda
-implement linked list
-prepare for TCS
+Read book
+Help miguel
+Organize garage
+Call brandon
+Call Ayda
+Implement linked list
+Prepare for TCS
