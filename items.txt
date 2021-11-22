@@ -6,3 +6,5 @@ Call Brandon
 Call Ayda
 Implement Linked List
 Prepare For TCS
+Learn Git Pull Requests
+Send Pictures To Steven
