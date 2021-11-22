@@ -3,3 +3,6 @@ read book
 help miguel
 organize garage
 call brandon
+call Ayda
+implement linked list
+prepare for TCS
